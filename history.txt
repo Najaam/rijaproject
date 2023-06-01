@@ -1,0 +1,2 @@
+rija Karachi Lahore 12000
+rija Lahore Karachi 22000

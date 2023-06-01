@@ -1,4 +1,4 @@
-Karachi 
+Karachi
 Lahore
 Islamabad
 Faislabad
@@ -6,14 +6,14 @@ Multan
 Raheem-yar-khan
 Sukhur
 Nawabshah
-Peshawar 
+Peshawar
 D.I-khan
 Quetta
 Pasni
 Sui
 Chitral
-Kohat
-Sialkot 
+Koha
+Sialkot
 Bahawalpur
 Gilgit
 Chaklala
